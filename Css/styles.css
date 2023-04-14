@@ -1,4 +1,8 @@
-
+.Profile-Picture{
+    height: 200px;
+    width: 200px;
+    margin-top: 25px;
+}
 
 .top-cloud{
     position: absolute;
@@ -34,10 +38,26 @@ body{
     font-family: 'Merriweather', serif;
 }
 .middle-container{
-    
-    
+   
+        
 }
 .bottom-container{
     
     
+}
+.Introduction{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    background-color: aqua;
+    font-family: 'Montserrat', sans-serif;
+}
+.skills{
+    background-color: red;
+}
+.skill-row{
+    background-color: blueviolet;
+    font-family: 'Montserrat', sans-serif;
+
 }
