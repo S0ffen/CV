@@ -38,7 +38,7 @@ body{
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
-    background-color: #e4f9f5;;
+    background-color: #84B59F
 }
 .middle-container{
    
@@ -52,8 +52,8 @@ body{
     margin-left: 20%;
     margin-right: 20%;
     margin-top: 0px;
-    margin-bottom: 40px;
-
+    margin-bottom: 20px;
+    font-size: large;
     font-family: 'Montserrat', sans-serif;
 }
 .skills{
@@ -63,6 +63,10 @@ body{
     font-family: 'Montserrat', sans-serif;
     margin-left: 20%;
     margin-right: 20%;
+    background-color: #69A297;
+    padding: 160px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 
 }
 .date-work{
@@ -79,4 +83,7 @@ body{
     bottom: 20px;
     margin-left: 20%;
     margin-right: 20%;
+}
+.officelist{
+    text-align: left;
 }
