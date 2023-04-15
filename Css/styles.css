@@ -7,12 +7,13 @@
 .top-cloud{
     position: absolute;
     top: 50px;
-    right: 650px;
+    right: 25%;
   
 }
 
 .bottom-cloud{
-    position:absolute
+    position:absolute;
+    left: 25%;
 }
 
 .first-container{
@@ -20,6 +21,7 @@
     margin: 0px;
     position: relative;
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 h1{
     margin: 0px;
@@ -36,6 +38,7 @@ body{
     margin: 0px;
     text-align: center;
     font-family: 'Merriweather', serif;
+    background-color: #e4f9f5;;
 }
 .middle-container{
    
@@ -50,14 +53,30 @@ body{
     margin-right: 20%;
     margin-top: 0px;
     margin-bottom: 40px;
-    background-color: aqua;
+
     font-family: 'Montserrat', sans-serif;
 }
 .skills{
-    background-color: red;
+  
 }
 .skill-row{
-    background-color: blueviolet;
     font-family: 'Montserrat', sans-serif;
+    margin-left: 20%;
+    margin-right: 20%;
 
+}
+.date-work{
+ position: relative;
+ bottom: 20px;
+}
+.experience{
+    margin: 0;
+    text-align: center;
+    
+}
+.experience-p{
+    position: relative;
+    bottom: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
 }
